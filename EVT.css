@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #006400; /* Dark Green */
+    text-align: center;
+}
+
+/* Styling the header */
+.header {
+    background-color: #004d00; /* Even darker green */
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Styling the title */
+.header h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+}
